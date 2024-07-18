@@ -1,3 +1,6 @@
+'''Author
+BALARAM from KLUV
+Ethical Hacker & Security Enthusiast'''
 # Importing the random module
 import random
 
